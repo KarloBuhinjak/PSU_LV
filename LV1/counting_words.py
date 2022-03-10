@@ -5,9 +5,10 @@ try:
     fhand = open(fname)
 except:
     print('File cannot be opened:', fname)
-   	exit()
+    exit()
 
 counts = dict()
+
 for line in fhand:
     words = line.split()
     
