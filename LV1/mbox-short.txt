@@ -764,10 +764,7 @@ fix to SAK-10911: Refactor use of site.upd, site.upd.site.mbrship and site.upd.g
 ----------------------
 This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
 You can modify how you receive notifications at My Workspace > Preferences.
-
-
-
-From gsilver@umich.edu Fri Jan  4 11:10:22 2008
+ gsilver@umich.edu Fri Jan  4 11:10:22 2008
 Return-Path: <postmaster@collab.sakaiproject.org>
 Received: from murder (mail.umich.edu [141.211.14.39])
 	 by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;

@@ -1,5 +1,7 @@
 # how many times each word appears in the txt file
 
+
+
 fname = input('Enter the file name: ')  #e.g. www.py4inf.com/code/romeo.txt
 try:
     fhand = open(fname)
