@@ -8,7 +8,6 @@ except:
 
 count=0
 listOfEmails = []
-index = 0
 for line in fhand:
     words = line.split()
     i = 0
